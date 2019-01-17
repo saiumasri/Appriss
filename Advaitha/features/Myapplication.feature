@@ -7,7 +7,7 @@ Feature: To test facebook smoke scenario
 Scenario: To test login functionalities of facebook
 Given open chrome browser and go to facebook page
 	
-When I enter valid username and valied password
+When I enter valid username and valied passwordfkllklglk
 	
 Then user should able to login successfully
 
